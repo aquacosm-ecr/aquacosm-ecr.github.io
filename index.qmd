@@ -1,19 +1,13 @@
 ---
-title: "AQUACOSM ECR Network"
+title: ""
+image: images/AQUACOSM-ecr_transpaternt.png
 ---
+<center>
+# AQUCOSM ECR Network
+</center>
 
-<!-- <img src = "images/AQUACOSM-ecr_transpaternt.png" width = "100%"> -->
 
-::: cent
-AQUACOSM ECR Network
-:::
-
-::: cent
-![](images/AQUACOSM-ecr_transpaternt.png){fig-align="center"}
-:::
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+<center>
+<img src = "images/AQUACOSM-ecr_transpaternt.png" width = "30%">
+<!-- ![](images/AQUACOSM-ecr_transpaternt.png){fig-align="center" width = "250"} -->
+</center>

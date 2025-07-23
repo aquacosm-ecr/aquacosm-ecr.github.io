@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "AQUACOSM ECR Network"
+  site-url: https://aquacosm-ecr.github.io/
+  navbar:
+    title: false
+    logo: images/AQUACOSM-ecr_transpaternt.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: bluesky
+        href: https://bsky.app/profile/aquacosm-ecr.bsky.social
+      - icon: discord
+        href: https://discord.gg/MZsfj6E5xd
+    search: false
+
+        
+
+format:
+  html:
+    theme: 
+      - simplex
+      - styles.scss
+    mainfont: Aleo
+    page-layout: full
+    toc: false
+
+editor: visual

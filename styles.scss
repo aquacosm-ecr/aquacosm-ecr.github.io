@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+
+// Import fonts: Aleo, Mulish, Nunito
+@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+// Colors
+$true-blue: #446cb2;
+$azul: #1d71b7;
+$pale-green: #00a49b;
+$green: #00a755;
+$yellow: #fac748;
+$orange: #ad7237;
+$background: #fcfcfc;
+
+// Base document colors
+$navbar-bg: #4B584230; // navbar
+$navbar-fg: #303633; // navbar foreground elements
+$navbar-hl: #542344; // highlight color when hovering over navbar links
+$body-bg: $background; // page background 
+$body-color: black; // page text 
+$footer-bg: #c6caed; // footer 
+$link-color: #542344; // hyperlinks
+
+//#c6caed
+//$beige: #eaf0ce
+//#edffec
+//#E2FADB
+//#C05746
+//#B02E0C
+//#C2B8B2
+//#4B5842
+//#542344
+//#303633
+//#fcfcfc
+/*-- scss:rules --*/
+
+h1 {
+  letter-spacing: 3px;
+  font-weight: 600;
+}
+
+.navbar-brand img { 
+  max-height: 40px;
+  width: auto;
+}

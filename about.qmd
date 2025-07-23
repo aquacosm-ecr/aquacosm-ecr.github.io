@@ -2,8 +2,69 @@
 title: "About"
 ---
 
-About this site
+some text, e.g. how we came to be
+blah blah
 
-```{r}
-1 + 1
-```
+### Core group members
+
+
+## Anika Happe
+
+::: {.column-margin}
+![](images/anika.jpg){fig-alt="Anika Happe" title="Anika Happe"}
+:::
+
+Anika is a PhD Candidate at the Institute for Chemistry and Biology of the Marine Environment (ICBM) at the University of Oldenburg. She is interested in phytoplankton, multi-driver experiments, variable environments, stoichiometry and biodiversity. Within AQUACOSM-plus, she participated in two indoor mesocosm experiments at the University of Oldenburg, in the so-called “Planktotrons”, and an in-situ mesocosm experiment at Lake Erken in Sweden. 
+
+## Katalin Patonai
+
+::: {.column-margin}
+![](images/kati.jpg){fig-alt="Katalin Patonai" title="Katalin Patonai"}
+:::
+
+Katalin is an Assistant Professor at Université de Montréal, Canada. She specializes in aquatic community ecology, specifically, food web ecology, network analysis, and quantifying the community effects of invasive species.   Within AQUACOSM, she participated in two outdoor mesocosm experiments in Lunz (Austria) and led the HUNTREX trophic experiment in Seeon (Germany).
+
+## Katerina Symiakaki
+
+::: {.column-margin}
+![](images/katerina.jpg){fig-alt="Katerina Symiakaki" title="Katerina Symiakaki"}
+:::
+
+Katerina is a PhD Candidate at the Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB). She has worked with many plankton groups but focuses on phytoplankton and mixotrophs. She has been part of many mesocosm experiments within AQUACOSM and AQUACOSM-plus in CretaCosmos (Greece), MEDIMEER (France), UMU & SITES-AquaNet (Sweden) and LakeLab (Germany).
+
+## Cihelio Alves Amorim
+
+::: {.column-margin}
+![](images/cihelio.jpg){fig-alt="Cihelio Amorim" title="Cihelio Amorim"}
+:::
+
+Cihelio is a Postdoctoral Researcher at WasserCluster Lunz, Austria. His research centers on understanding the effects of eutrophication, climate change, salinization, and algal blooms on aquatic ecosystems. He coordinated three large-scale controlled mesocosm experiments from the AQUACOSM-plus project and field expeditions to Turkish saline inland and coastal lakes. In addition to his research, Cihelio is actively involved in science outreach initiatives and committees. 
+
+## Sarah Hasnain
+
+::: {.column-margin}
+![](images/sarah.jpg){fig-alt="Sarah Hasnain" title="Sarah Hasnain"}
+:::
+
+Sarah is a postdoctoral researcher at Institut de la Mer de Villefranche (IMEV), specializing in trait-based ecology in zooplankton communities from freshwater and marine ecosystems, and plant communities in the Anatolian Steppe. She was one of the organizers for two AQUACOSM-plus mesocosm training schools in Hungary and Romania for ECRs and is very enthusiastic about statistical literacy. 
+
+## Varsha Rani
+
+::: {.column-margin}
+![](images/varsha.jpg){fig-alt="Varsha Rani" title="Varsha Rani"}
+:::
+
+Varsha is a PhD student at Eötvös Loránd University (ELTE), Hungary. She is currently working on the impact of change in temperature on food preference of omnivorous crustaceans. She is primarily focused on investigating the evolutionary impact of anthropogenic activities on planktonic communities.
+
+## Maria Nicoară
+
+::: {.column-margin}
+![](images/maria.jpg){fig-alt="Maria Nicoară" title="Maria Nicoară"}
+:::
+
+Maria is a PhD student at Babeș-Bolyai University Cluj (UBB), Romania. She is currently working as a Research Assistant at the Institute of Biological Research (ICB) Cluj on the response of phytoplankton after long-term exposure to warming and/or acidification. Her main focus is to investigate how the responses of phytoplankton, in terms of growth, toxin and lipid production, affect the entire community.
+
+### Former members
+
+- Alexis Guislain
+- Gülce Yalçin
