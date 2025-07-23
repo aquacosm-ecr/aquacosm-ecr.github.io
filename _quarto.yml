@@ -13,6 +13,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: events.qmd
+        text: Events
       - href: contact.qmd
         text: Contact
     right:

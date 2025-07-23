@@ -1,5 +1,5 @@
 ---
-title: "contact"
+title: "Contact"
 ---
 
-Join newsletter
+[Join our newsletter](https://forms.gle/px9AdKnsEKMNjUPv9)

@@ -43,3 +43,26 @@ h1 {
   max-height: 40px;
   width: auto;
 }
+
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  padding-top: 10px;
+  font-weight: bold;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+.section h2, .section h3, .section h4 {
+  margin-top: 25px !important;
+  padding-top: 5px !important;
+  font-weight: bold;
+  /*color: #f8c91c;*/
+  color: #c49a00;
+  font-weight: bold;
+  letter-spacing: 0.025em;
+}
