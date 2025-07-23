@@ -3,7 +3,7 @@ title: ""
 image: images/AQUACOSM-ecr_transpaternt.png
 ---
 <center>
-# AQUCOSM ECR Network
+# AQUACOSM ECR Network
 </center>
 
 
