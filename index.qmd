@@ -2,12 +2,12 @@
 title: ""
 image: images/AQUACOSM-ecr_transpaternt.png
 ---
-<center>
-# AQUACOSM ECR Network
-</center>
+
+
+# AQUACOSM ECR Network {style="text-align: center"}
 
 
 <center>
-<img src = "images/AQUACOSM-ecr_transpaternt.png" width = "30%">
+<img src="images/AQUACOSM-ecr_transpaternt.png" width="30%"/> 
 <!-- ![](images/AQUACOSM-ecr_transpaternt.png){fig-align="center" width = "250"} -->
 </center>
