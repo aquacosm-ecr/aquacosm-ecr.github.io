@@ -30,7 +30,7 @@ website:
     
   page-footer:
     left: We have recieved funding from the EU H2020-INFRAIA project AQUACOSM-plus (No. 871081) 
-    right: This website is built with {{< fa brands github title="GitHub octocat logo" >}}, {{< fa brands r-project title="R Project" >}} and [Quarto](https://quarto.org/)
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/aquacosm-ecr/aquacosm-ecr.github.io), {{< fa brands r-project title="R Project" >}} and [Quarto](https://quarto.org/)
 
 format:
   html:
