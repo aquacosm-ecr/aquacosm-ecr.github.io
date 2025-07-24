@@ -6,8 +6,10 @@ website:
   title: "AQUACOSM ECR Network"
   site-url: https://aquacosm-ecr.github.io/
   navbar:
+    pinned: true
     title: false
     logo: images/AQUACOSM-ecr_transpaternt.png
+    
     left:
       - href: index.qmd
         text: Home
@@ -17,14 +19,18 @@ website:
         text: Events
       - href: contact.qmd
         text: Contact
+        
     right:
-      - icon: bluesky
+      - icon: twitter
         href: https://bsky.app/profile/aquacosm-ecr.bsky.social
       - icon: discord
         href: https://discord.gg/MZsfj6E5xd
-    search: false
-
         
+    search: false
+    
+  page-footer:
+    left: We have recieved funding from the EU H2020-INFRAIA project AQUACOSM-plus (No. 871081) 
+    right: This website is built with {{< fa brands github title="GitHub octocat logo" >}}, {{< fa brands r-project title="R Project" >}} and [Quarto](https://quarto.org/)
 
 format:
   html:
@@ -34,5 +40,3 @@ format:
     mainfont: Aleo
     page-layout: full
     toc: false
-
-editor: visual
