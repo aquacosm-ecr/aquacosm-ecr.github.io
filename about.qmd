@@ -2,31 +2,30 @@
 title: "About"
 ---
 
-some text, e.g. how we came to be
-blah blah
+some text, e.g. how we came to be blah blah
 
 ### Core group members
 
-
 ## Anika Happe
 
-::: {.column-margin}
+::: column-margin
 ![](images/anika.jpg){fig-alt="Anika Happe" title="Anika Happe"}
 :::
 
-Anika is a PhD Candidate at the Institute for Chemistry and Biology of the Marine Environment (ICBM) at the University of Oldenburg. She is interested in phytoplankton, multi-driver experiments, variable environments, stoichiometry and biodiversity. Within AQUACOSM-plus, she participated in two indoor mesocosm experiments at the University of Oldenburg, in the so-called “Planktotrons”, and an in-situ mesocosm experiment at Lake Erken in Sweden. 
+Anika is a PhD Candidate at the Institute for Chemistry and Biology of the Marine Environment (ICBM) at the University of Oldenburg. She is interested in phytoplankton, multi-driver experiments, variable environments, stoichiometry and biodiversity. Within AQUACOSM-plus, she participated in two indoor mesocosm experiments at the University of Oldenburg, in the so-called “Planktotrons”, and an in-situ mesocosm experiment at Lake Erken in Sweden. <br/>
 
 ## Katalin Patonai
 
-::: {.column-margin}
+::: column-margin
 ![](images/kati.jpg){fig-alt="Katalin Patonai" title="Katalin Patonai"}
 :::
 
-Katalin is an Assistant Professor at Université de Montréal, Canada. She specializes in aquatic community ecology, specifically, food web ecology, network analysis, and quantifying the community effects of invasive species.   Within AQUACOSM, she participated in two outdoor mesocosm experiments in Lunz (Austria) and led the HUNTREX trophic experiment in Seeon (Germany).
+Katalin is an Assistant Professor at Université de Montréal, Canada. She specializes in aquatic community ecology, specifically, food web ecology, network analysis, and quantifying the community effects of invasive species. Within AQUACOSM, she participated in two outdoor mesocosm experiments in Lunz (Austria) and led the HUNTREX trophic experiment in Seeon (Germany).
+
 
 ## Katerina Symiakaki
 
-::: {.column-margin}
+::: column-margin
 ![](images/katerina.jpg){fig-alt="Katerina Symiakaki" title="Katerina Symiakaki"}
 :::
 
@@ -34,23 +33,23 @@ Katerina is a PhD Candidate at the Leibniz Institute of Freshwater Ecology and I
 
 ## Cihelio Alves Amorim
 
-::: {.column-margin}
+::: column-margin
 ![](images/cihelio.jpg){fig-alt="Cihelio Amorim" title="Cihelio Amorim"}
 :::
 
-Cihelio is a Postdoctoral Researcher at WasserCluster Lunz, Austria. His research centers on understanding the effects of eutrophication, climate change, salinization, and algal blooms on aquatic ecosystems. He coordinated three large-scale controlled mesocosm experiments from the AQUACOSM-plus project and field expeditions to Turkish saline inland and coastal lakes. In addition to his research, Cihelio is actively involved in science outreach initiatives and committees. 
+Cihelio is a Postdoctoral Researcher at WasserCluster Lunz, Austria. His research centers on understanding the effects of eutrophication, climate change, salinization, and algal blooms on aquatic ecosystems. He coordinated three large-scale controlled mesocosm experiments from the AQUACOSM-plus project and field expeditions to Turkish saline inland and coastal lakes. In addition to his research, Cihelio is actively involved in science outreach initiatives and committees.
 
 ## Sarah Hasnain
 
-::: {.column-margin}
+::: column-margin
 ![](images/sarah.jpg){fig-alt="Sarah Hasnain" title="Sarah Hasnain"}
 :::
 
-Sarah is a postdoctoral researcher at Institut de la Mer de Villefranche (IMEV), specializing in trait-based ecology in zooplankton communities from freshwater and marine ecosystems, and plant communities in the Anatolian Steppe. She was one of the organizers for two AQUACOSM-plus mesocosm training schools in Hungary and Romania for ECRs and is very enthusiastic about statistical literacy. 
+Sarah is a postdoctoral researcher at Institut de la Mer de Villefranche (IMEV), specializing in trait-based ecology in zooplankton communities from freshwater and marine ecosystems, and plant communities in the Anatolian Steppe. She was one of the organizers for two AQUACOSM-plus mesocosm training schools in Hungary and Romania for ECRs and is very enthusiastic about statistical literacy.
 
 ## Varsha Rani
 
-::: {.column-margin}
+::: column-margin
 ![](images/varsha.jpg){fig-alt="Varsha Rani" title="Varsha Rani"}
 :::
 
@@ -58,7 +57,7 @@ Varsha is a PhD student at Eötvös Loránd University (ELTE), Hungary. She is c
 
 ## Maria Nicoară
 
-::: {.column-margin}
+::: column-margin
 ![](images/maria.jpg){fig-alt="Maria Nicoară" title="Maria Nicoară"}
 :::
 
@@ -66,5 +65,5 @@ Maria is a PhD student at Babeș-Bolyai University Cluj (UBB), Romania. She is c
 
 ### Former members
 
-- Alexis Guislain
-- Gülce Yalçin
+-   Alexis Guislain
+-   Gülce Yalçin
