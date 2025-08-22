@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AQUACOSM ECR Network",
+    "objectID": "newsletter.html",
+    "href": "newsletter.html",
+    "title": "Newsletters",
     "section": "",
-    "text": "AQUACOSM ECR Network"
+    "text": "May 2025 \\"
+  },
+  {
+    "objectID": "newsletter.html#past-newsletters",
+    "href": "newsletter.html#past-newsletters",
+    "title": "Newsletters",
+    "section": "",
+    "text": "May 2025 \\"
   },
   {
     "objectID": "about.html",
@@ -70,17 +77,10 @@
     "text": "Join our newsletter"
   },
   {
-    "objectID": "newsletter.html",
-    "href": "newsletter.html",
-    "title": "Newsletters",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AQUACOSM ECR Network",
     "section": "",
-    "text": "May 2025 \\"
-  },
-  {
-    "objectID": "newsletter.html#past-newsletters",
-    "href": "newsletter.html#past-newsletters",
-    "title": "Newsletters",
-    "section": "",
-    "text": "May 2025 \\"
+    "text": "AQUACOSM ECR Network"
   }
 ]
