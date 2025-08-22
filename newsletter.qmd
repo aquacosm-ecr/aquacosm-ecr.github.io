@@ -1,0 +1,10 @@
+---
+title: "Newsletters"
+format: html
+---
+
+## Past newsletters
+
+-   May 2025 \\
+
+<embed src="newsletters/May_2025.pdf" width="800px" height="2100px" />

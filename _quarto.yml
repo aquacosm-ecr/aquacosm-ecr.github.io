@@ -17,6 +17,8 @@ website:
         text: About
       - href: events.qmd
         text: Events
+      - href: newsletter.qmd
+        text: Newsletters
       - href: contact.qmd
         text: Contact
         
