@@ -5,6 +5,6 @@ format: html
 
 ## Past newsletters
 
--   May 2025 \\
+-   [May 2025](newsletters/May_2025.pdf)
 
-<embed src="newsletters/May_2025.pdf" width="800px" height="2100px" />
+<!-- <embed src="newsletters/May_2025.pdf" width="800px" height="2100px" /> -->
