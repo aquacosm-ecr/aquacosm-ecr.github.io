@@ -23,7 +23,7 @@ website:
         text: Contact
         
     right:
-      - icon: twitter
+      - text: "{{< iconify simple-icons bluesky >}}"
         href: https://bsky.app/profile/aquacosm-ecr.bsky.social
       - icon: discord
         href: https://discord.gg/MZsfj6E5xd
