@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-some text, e.g. how we came to be blah blah
+some text, 
 
 ### Core group members
 
@@ -21,7 +21,6 @@ Anika is a PhD Candidate at the Institute for Chemistry and Biology of the Marin
 :::
 
 Katalin is an Assistant Professor at Université de Montréal, Canada. She specializes in aquatic community ecology, specifically, food web ecology, network analysis, and quantifying the community effects of invasive species. Within AQUACOSM, she participated in two outdoor mesocosm experiments in Lunz (Austria) and led the HUNTREX trophic experiment in Seeon (Germany).
-
 
 ## Katerina Symiakaki
 

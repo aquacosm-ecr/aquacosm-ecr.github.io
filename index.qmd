@@ -6,8 +6,12 @@ image: images/AQUACOSM-ecr_transpaternt.png
 
 # AQUACOSM ECR Network {style="text-align: center"}
 
+::: {layout-ncol=2}
+<!-- <left> -->
+<!-- <img src="images/AQUACOSM-ecr_transpaternt.png" width="30%"/>  -->
+![](images/AQUACOSM-ecr_transpaternt.png){fig-align="left" width="50%"}
+<!-- </left> -->
 
-<center>
-<img src="images/AQUACOSM-ecr_transpaternt.png" width="30%"/> 
-<!-- ![](images/AQUACOSM-ecr_transpaternt.png){fig-align="center" width = "250"} -->
-</center>
+The AQUACOSM-ECR Network empowers early-career researchers in mesocosm science by fostering collaboration, strengthening scientific exchange, and promoting professional development. We create inclusive opportunities for young scientists to connect, initiate joint research, and access training that supports their growth in a challenging career phase. Through regular events, collaborative workshops, and active communication channels, we work to build a vibrant, supportive community that drives innovation in aquatic research.
+
+:::

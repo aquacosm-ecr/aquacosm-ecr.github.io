@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "some text, e.g. how we came to be blah blah"
+    "text": "some text,"
   },
   {
     "objectID": "about.html#anika-happe",
@@ -81,6 +81,13 @@
     "href": "index.html",
     "title": "AQUACOSM ECR Network",
     "section": "",
-    "text": "AQUACOSM ECR Network"
+    "text": "AQUACOSM ECR Network\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nThe AQUACOSM-ECR Network empowers early-career researchers in mesocosm science by fostering collaboration, strengthening scientific exchange, and promoting professional development. We create inclusive opportunities for young scientists to connect, initiate joint research, and access training that supports their growth in a challenging career phase. Through regular events, collaborative workshops, and active communication channels, we work to build a vibrant, supportive community that drives innovation in aquatic research."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "No matching items"
   }
 ]

@@ -1,0 +1,22 @@
+---
+title: "In person sessions and workshops"
+format: html
+categories: [Sessions & Workshops]
+draft: true
+---
+
+## 2025
+
+* ECR Ice-Breaker at the 5th International Conference on Community Ecology (ComEc5), Budapest, Hungary - 3-5 September 2025
+
+* Workshop at ASLO 2025 Aquatic Science Meeting, Charlotte, North Carolina, USA - March 2025
+
+## 2024
+
+* Mesocosm-focused session at ICYMARE in Bremen, Germany: “Unravelling the effects of global change on aquatic systems: opportunities and limitations in state-of-the-art mesocosm research” - 16-20 September 2024
+
+## 2023
+
+* ECR workshop at the AQUACOSM-plus Symposium, Antalya, Turkiye: "Synthesizing Scientific Publications and Data from AQUACOSM and AQUACOSM-plus research" - November 2023
+
+* ECR Workshop at the ASLO 2023 Aquatic Sciences Meeting, Palma de Mallorca, Spain: “Expanding mesocosm-based research and collaboration among early career researchers” - June 2023
