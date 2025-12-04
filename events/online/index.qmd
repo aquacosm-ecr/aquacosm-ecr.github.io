@@ -1,0 +1,30 @@
+---
+title: "Online events"
+format: html
+categories: [Online events]
+draft: true
+---
+
+## Upcoming!
+
+
+## Past events {.panel-tabset}
+
+### 2025 
+
+*
+
+* Round table discussion “Building Bridges for Career Success – How to Create Opportunities Through Networking”
+ECRs representing different networks: Barbara Barta (SIL?), Bruno Cremella (SIL?), Cihelio Amorim (AQUACSOM-ECR), Maria Nicoară (AQUACSOM-ECR), Jenna Robinson (??), Abigail Kreuser (ALSO)
+
+* Structural Equation Modelling Workshop - Dr. Cristina Charette | Sept 26th, 2025 
+
+* How can Bayesian Inference advance our insights from Mesocosm Experiments? - Dr. Luca Schenone | Aug 21st, 2025
+
+* Diversity in Science: Women in Science - Dr. Núria Catalán & Dr. Alison Derry | Jun 12th, 2025
+
+* Social Media for Scientists: Communicate your science in social media - Phoebe Griffith and Gregor Kalinkat | 
+
+
+### 2024 
+
