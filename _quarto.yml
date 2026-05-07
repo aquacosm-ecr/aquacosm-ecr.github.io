@@ -23,7 +23,7 @@ website:
         text: Contact
         
     right:
-      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+      - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/aquacosm-ecr.bsky.social
       - icon: discord
         href: https://discord.gg/MZsfj6E5xd
@@ -31,7 +31,7 @@ website:
     search: false
     
   page-footer:
-    left: We have recieved funding from the EU H2020-INFRAIA project AQUACOSM-plus (No. 871081) 
+    left: We have received funding from the EU H2020-INFRAIA project AQUACOSM-plus (No. 871081) 
     right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/aquacosm-ecr/aquacosm-ecr.github.io), {{< fa brands r-project title="R Project" >}} and [Quarto](https://quarto.org/)
 
 format:
